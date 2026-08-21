@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Office.Platform/">
+    <Project Path="Office.Platform.GitHub\Office.Platform.GitHub.csproj" />
+    <Project Path="Office.Platform.YunXiao\Office.Platform.YunXiao.csproj" />
+  </Folder>
+  <Folder Name="/Office.Robot/">
+    <Project Path="Office.Robot.DingTalk\Office.Robot.DingTalk.csproj" />
+    <Project Path="Office.Robot.Feishu\Office.Robot.Feishu.csproj" />
+  </Folder>
+</Solution>
